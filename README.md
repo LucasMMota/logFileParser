@@ -1,0 +1,3 @@
+##Execução:
+php parser.php 
+
